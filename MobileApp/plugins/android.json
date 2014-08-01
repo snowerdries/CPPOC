@@ -4,6 +4,7 @@
         "uninstalled": []
     },
     "config_munge": {
+<<<<<<< HEAD
         "res/xml/config.xml": {
             "/*": {
                 "<feature name=\"Device\"><param name=\"android-package\" value=\"org.apache.cordova.device.Device\" /></feature>": 1
@@ -15,5 +16,10 @@
             "PACKAGE_NAME": "be.freebility.mobileapp"
         }
     },
+=======
+        "files": {}
+    },
+    "installed_plugins": {},
+>>>>>>> 6c108649edde18437deec22f2feaaa5499f291a2
     "dependent_plugins": {}
 }
